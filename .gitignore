@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.backup
+
+# Python
+*.pyc
+
+# ViM
+*.swp
+*.pem
+
